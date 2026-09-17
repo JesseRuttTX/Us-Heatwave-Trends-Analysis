@@ -1,0 +1,13 @@
+# core
+numpy
+pandas
+xarray
+scipy
+matplotlib
+# file formats
+netCDF4
+pyarrow
+# geometry / maps (CONUS polygon, Natural Earth shapefiles)
+shapely
+geopandas
+cartopy
